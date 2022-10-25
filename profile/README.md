@@ -1,14 +1,14 @@
 #  <img src="https://user-images.githubusercontent.com/61543012/197379470-36769a62-0149-4a29-b91d-261d5f3ef4b4.png" height="35" width="35" align-items="center" justify-content="center" /> Dapp Store
-It is importatnt to query the blockchain for meaningful metrics on upcoming trends in the metaverse. Let us guide you using data analytics and market sentiment.
+A place to locate, source, try and promote your favorite decentralized applications. A cross-compatible app store for the decentralzied web. 
 
-## Know when the next big thing in the metaverse is about to 3RUPT
+## Dapp stores and a browser to run dapps with built in functionality. 
 
-😡 Frustrated? Can't seem to buy before the blast-off? 
+💻 Access the best dapps on your desktop browser with useful developer tools.
 
-❓ Use pre-built queries or custom queries, even third-party queries from other dapps.
+📱 Or access on on your mobile device with resposivity freindly tools. 
 
-🔺🔻 Get in before the trend takes off using data analysis and notifications, then ride the wave down.
+💬 Communicate with our taem of developers to get your favorite dapps itnegrated. 
 
-🚩 Be the FIRST to get the latest and the greatest.
+⬇️ Be the FIRST to get the latest and most lucrative opportunities in DeFi.
 
-#### [An ECE Dapp](https://github.com/eliascharlese)
+#### [An ECE Dapp](https://github.com/elicharlese)
